@@ -1,0 +1,8 @@
+<pre>
+#EXTM3U
+#EXTINF:-1 tvg-id="emelec_delfin" tvg-name="Emelec vs Delfín" group-title="LigaPro",Emelec vs Delfín
+https://streamtp11.com/global1.php?stream=premiere1
+
+#EXTINF:-1 tvg-id="barcelona_aucas" tvg-name="Barcelona SC vs Aucas" group-title="LigaPro",Barcelona SC vs Aucas
+https://streamtp11.com/global1.php?stream=premiere2
+</pre>
